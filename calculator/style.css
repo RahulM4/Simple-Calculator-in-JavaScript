@@ -1,0 +1,55 @@
+.title{
+    text-align: center;
+    background-color: rgb(0, 119, 255);
+    border-radius: 10px;
+
+    
+}
+h1{
+    color: aliceblue;
+}
+.screenBoard{
+    border: solid red;
+    height: 600px;
+    width: 330px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(21, 60, 60);
+    
+}
+.btn{
+   margin-top: 20px;
+   
+}
+.numbers{
+    width: 60px;
+    height:60px;
+    margin-left: 13px;
+    border-radius: 50%;
+    background-color: aqua;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: 12px;
+}
+.screen{
+    width: 300px;
+    height: 40px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 10px;
+    font-size: 25px;
+    color: brown;
+
+    
+}
+
+.clear{
+   margin-left: 310px;
+   height: 30px;
+   width: 50px;
+   border-radius: 5px;
+   background-color: aqua;
+}
+body{
+    background-color: rgb(4, 161, 167);
+}
